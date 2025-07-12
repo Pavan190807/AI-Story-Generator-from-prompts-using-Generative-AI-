@@ -89,7 +89,7 @@ streamlit run app.py
 <img width="1916" height="966" alt="Image" src="https://github.com/user-attachments/assets/8772c981-cf17-4fb5-aadd-020b62c9c718" />
 
 
-<img width="547" height="902" alt="Image" src="https://github.com/user-attachments/assets/3f11adb3-26e0-45dc-bafa-2c8368abaa0e" />
+<img width="1919" height="982" alt="Image" src="https://github.com/user-attachments/assets/802b3ef1-8686-4b4c-b45b-27d769e1c82a" />
 
 
 ---
