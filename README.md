@@ -81,15 +81,15 @@ streamlit run app.py
 
 ### 📚 Home Screen
 
-![Home Screen](<img width="1908" height="981" alt="Image" src="https://github.com/user-attachments/assets/b2e77607-56e3-46dc-8a6f-51415227f472" />)
+<img width="1908" height="981" alt="Image" src="https://github.com/user-attachments/assets/cd494d14-2b0c-4bf9-a83a-8be55d499d28" />
 
 
 ### 💭 Story Output Example
 
-![Prompt and Output](<img width="1916" height="966" alt="Image" src="https://github.com/user-attachments/assets/8772c981-cf17-4fb5-aadd-020b62c9c718" />)
+<img width="1916" height="966" alt="Image" src="https://github.com/user-attachments/assets/8772c981-cf17-4fb5-aadd-020b62c9c718" />
 
 
-![Generated Story](<img width="547" height="902" alt="Image" src="https://github.com/user-attachments/assets/3f11adb3-26e0-45dc-bafa-2c8368abaa0e" />)
+<img width="547" height="902" alt="Image" src="https://github.com/user-attachments/assets/3f11adb3-26e0-45dc-bafa-2c8368abaa0e" />
 
 
 ---
