@@ -2,26 +2,26 @@
 
 A Streamlit-based web application that uses the Groq API with LLaMA 3 to generate short, creative stories from user prompts. Just enter your idea, and let the AI turn it into a vivid short story.
 
-##🚀 Live Demo
+## 🚀 Live Demo
 You can try the live version here:  
 https://dahwczfcagcvbtrqhzccqu.streamlit.app/
 
 
-##📌 Features
+## 📌 Features
   -🧠 AI-generated short stories using Groq’s LLaMA 3 model
   -✍️ Creative writing based on any prompt
   -⚡ Fast and responsive interface built with Streamlit
   -🔐 Secure API key management with .env locally and Streamlit Secrets on deployment
 
   
-##💠 Tech Stack
+## 💠 Tech Stack
   -Streamlit – UI framework
   -Groq API – LLaMA 3 model
   -Python
   -requests, python-dotenv
 
   
-##📅 Local Installation
+## 📅 Local Installation
 
   Follow these steps to run the app locally on your machine:
 
@@ -42,7 +42,7 @@ https://dahwczfcagcvbtrqhzccqu.streamlit.app/
     5.Run the app:
       streamlit run app.py
     
-##🎞️ Project Working
+## 🎞️ Project Working
   1.Open the web app.
 
   2.Enter a story prompt in the input box (e.g., "A dragon who loves gardening").
